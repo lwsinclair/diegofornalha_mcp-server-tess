@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-diegofornalha-mcp-server-tess-badge.png)](https://mseep.ai/app/mcp-mirror-diegofornalha-mcp-server-tess)
+
 # MCP-Server-TESS
 
 Servidor MCP (Model Context Protocol) para integração com a API TESS.
